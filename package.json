@@ -1,0 +1,17 @@
+{
+  "name": "fbi-system-optional-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabián A. Aguilera B.",
+  "license": "ISC"
+}
